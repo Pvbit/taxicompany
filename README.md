@@ -1,5 +1,5 @@
 # Taxi Company Analysis — Impact of Weather on Trip Duration
-Estudo de aplicação de uma nova companhia de Taxi
+Study of the application of a new taxi company.
 
 ## 1) Objective
 Analyze taxi trip data to understand operational patterns and test whether **weather conditions affect the average trip duration** between **Loop** and **O’Hare International Airport** on Saturdays.
